@@ -1,6 +1,6 @@
 {
   "name": "@datagica/datanote-api-engine",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Datanote Api Engine",
   "author": "Julian Bilcke <julian.bilcke@datagica.com>",
   "license": "GPLv3",
